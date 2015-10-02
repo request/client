@@ -1,5 +1,5 @@
 
-var request = require('request-core')
+var request = require('@http/core')
 
 
 function client (options) {
