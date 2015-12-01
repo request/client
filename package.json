@@ -1,26 +1,27 @@
 {
-  "name": "@http/client",
+  "name": "@request/client",
   "version": "0.1.0",
   "description": "HTTP Client Library",
 
   "keywords": [
+    "request",
     "http",
     "https",
     "client"
   ],
 
   "license": "Apache-2.0",
-  "homepage": "https://github.com/node-http/client",
+  "homepage": "https://github.com/request/client",
 
   "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-http/client.git"
+    "url": "https://github.com/request/client.git"
   },
 
   "dependencies": {
-    "@http/core"     : "0.1.0"
+    "@request/core": "0.1.0"
   },
 
   "devDependencies": {},
